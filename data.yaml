@@ -1,0 +1,7 @@
+path: ../drive/My Drive/Face_Recognition Project
+train: ../train/images
+test: ../test/images
+valid: ../valid/images
+
+nc: 3
+names: ['Shaurya','Muskan','Kavya']
